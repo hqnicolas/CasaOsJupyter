@@ -10,13 +10,14 @@ Runing Jupyter Notebook on CasaOS Server with aarch64
 ```
 published: "3001"
 ```
+- Now you can aceess: http://casaos.yourserver:3001
 - How to access the login token:
 1. On Casaos Home
 2. Click on Jupyter3 Config
 3. Click on Terminal and Logs
 4. on Logs, Find this line:
 ```
-jupyter3-jupyter3-1  | [I 08:47:36.603 NotebookApp] http://4cf6b5299e86:8888/?token=70debeb437bbd2587
+jupyter3-jupyter3-1  | [I 08:47:36.603 NotebookApp] http://4cf6b5297786:8888/?token=70debe4447bbd2587
 ```
 5. Take the token from Link above.
 6. Drop the token on your Jupyter Login Screen.
