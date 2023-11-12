@@ -28,3 +28,4 @@ jupyter notebook \
 --notebook-dir=/workspace --ip='*' --port=8888 \
 --no-browser --allow-root"
 ``` 
+- Your Jupiter will access your USER folder From CasaOS server.
