@@ -70,10 +70,10 @@ x-casaos:
   scheme: http
   store_app_id: jupyter3
   tagline:
-    en_us:  (github.com/hqnicolas)
+    en_us:  github.com/hqnicolas/KonmeoCasaOsJupyter
   thumbnail: ""
   tips:
-    custom: (github.com/hqnicolas)
+    custom: github.com/hqnicolas/KonmeoCasaOsJupyter
   title:
     en_us: jupyter3
     custom: ""
