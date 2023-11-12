@@ -5,7 +5,7 @@ Runing Jupyter Notebook on CasaOS Server with aarch64
 2. Click on add custom image.
 3. Click on import icon.
 4. select the [Jupyter3.yaml](https://github.com/hqnicolas/CasaOsJupyter/blob/main/jupyter3.yaml)
-- to change your docker external port:
+- to change your docker external port, edit the [Jupyter3.yaml](https://github.com/hqnicolas/CasaOsJupyter/blob/main/jupyter3.yaml):
 ```
 published: "3001"
 ```
