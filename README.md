@@ -1,6 +1,6 @@
 
 
-# CasaOs Jupyter
+# CasaOs Konmeo Jupyter Docker Compose
 Runing Jupyter Notebook on CasaOS Server with aarch64
 Based on [Konmeo/jupyter](https://hub.docker.com/r/konmeo/jupyter)
 - How to use:
