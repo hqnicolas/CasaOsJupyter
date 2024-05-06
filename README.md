@@ -20,7 +20,7 @@ published: "3001"
 3. Click on Terminal and Logs
 4. on Logs, Find this line:
 ```
-jupyter3-jupyter3-1  | [I 08:47:36.603 NotebookApp] http://4cf6b5297786:8888/?token=70debe4447bbd2587
+jupyter3-jupyter3-1  | [I 08:47:36.603 NotebookApp] http://192.168.255.255:8888/?token=70debe4447bbd2587
 ```
 5. Take the token from Link above.
 6. Drop the token on your Jupyter Login Screen.
